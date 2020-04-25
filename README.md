@@ -1,5 +1,6 @@
 # extract-mfg
 extract mfg.dat from BGW210
+
 Instructions:
 
 1) Downgrade to version 1.0.29
